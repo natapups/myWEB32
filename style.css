@@ -1,0 +1,26 @@
+.phototop {
+    width: 100%;
+}
+.phototop img {
+    width: 100%;
+}
+main {
+    width: 70%;
+    margin: auto;
+}
+h1 {
+    font-family: 'Comfortaa';
+    text-align: center;
+}
+p {
+    font-family: 'Alegreya+Sans';
+    text-align: justify;
+}
+.photoline {
+    display: flex;
+    justify-content: space-between;
+}
+.photoline img{
+    width: 31%;
+    border-radius: 10px;
+}
